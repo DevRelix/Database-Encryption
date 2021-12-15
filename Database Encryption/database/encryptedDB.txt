@@ -1,0 +1,5 @@
+\*Example of how the regular username and password that is encrypted would get printed here and stored*/
+Encrypted Username: …x|‹ | Encrypted Password: {ˆv{‚|| | 
+Encrypted Username: Ytzz‚‡ | Encrypted Password: _‚|ƒ‚ƒ | 
+Encrypted Username: ‡x†‡ | Encrypted Password: ‡x†‡DEFFED | 
+\*All of the above can be deleted*/

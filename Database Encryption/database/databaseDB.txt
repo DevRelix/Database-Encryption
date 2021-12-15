@@ -1,0 +1,5 @@
+\*Example of how the regular username and password that is decrypted would get printed here and stored*/
+Decrypted Username: relix || Decrypted Password: huncholini 
+Decrypted Username: Faggot || Decrypted Password: Lollipop 
+Decrypted Username: test || Decrypted Password: test123321 
+\*All of the above can be deleted*/
