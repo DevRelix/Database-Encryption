@@ -18,7 +18,7 @@ The following dependencies and packages need to be installed for either CentOS o
 3) gcc db.c -o db -Wall -std=c99
 4) To run the program | ./db
 
-All encrypted usernames and passwords get stored in /database/encryptedDB.txt/
-All decrypted regular usernames and passwords get stored in /database/databaseDB.txt/
+All encrypted usernames and passwords get stored in ./database/encryptedDB.txt/
+All decrypted regular usernames and passwords get stored in ./database/databaseDB.txt/
 
 Hope this helps for those who feel the need to use this simple program and to simply secure your database.
